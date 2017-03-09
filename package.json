@@ -1,0 +1,12 @@
+{
+  "name": "criticalcss-brunch",
+  "version": "1.0.0",
+  "description": "A Brunch.io wrapper for CriticalCSS by Filament Group",
+  "main": "index.js",
+  "repository": "git@github.com:darren131/criticalcss-brunch.git",
+  "author": "Darren Wood <darren@thefold.co.nz>",
+  "license": "MIT",
+  "dependencies": {
+    "criticalcss": "^2.1.0"
+  }
+}
